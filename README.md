@@ -1,8 +1,7 @@
 # ProjectsPIoT2023
 
 ## Integrantes
-- Primer Integrante: [Nombre y Apellidos del primer integrante]
-- Segundo Integrante: [Nombre y Apellidos del segundo integrante]
+- Primer Integrante: Jesus Yael Padrón Grimaldo GDS0543
 
 ## Objetivo General
 El proyecto ProjectsPIoT2023 tiene como objetivo principal desarrollar e implementar un sistema de Internet de las Cosas (IoT) que aborde [especificar el área o problema que aborda]. A través de la integración de hardware y software, buscamos lograr [detallar los objetivos específicos del proyecto].
